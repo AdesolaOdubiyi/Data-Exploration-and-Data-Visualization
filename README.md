@@ -18,6 +18,7 @@ Calculated the mean, standard deviation, and variance for the numerical features
 Visualization:
 
 Used seaborn and matplotlib to create box plots, bar charts, scatter plots, and histograms to explore the distribution, skewness, and shape of the features.
+
 2. Data Curation/Feature Engineering
 Outliers Detection:
 
@@ -28,6 +29,7 @@ Checked for and dropped any missing values in the dataset.
 Dummy Variables:
 
 Converted the categorical target variable 'Purchased' into dummy variables for the machine learning model.
+
 3. Machine Learning Model - Supervised Learning
 Logistic Regression Model:
 Split the data into training and testing sets.
